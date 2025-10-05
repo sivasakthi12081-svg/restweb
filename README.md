@@ -600,7 +600,7 @@ nav a:hover {
 ![alt text](Home-1.png) 
 ![alt text](Menu-1.png)
 ![alt text](Admin-1.png)
-![alt text](contact-1.png) 
+![alt text](<contact us-1.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
