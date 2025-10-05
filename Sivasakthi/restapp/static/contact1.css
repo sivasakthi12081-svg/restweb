@@ -1,0 +1,84 @@
+body{
+    background-image: url(chinese.png);
+    background-size: cover; 
+    background-repeat: no-repeat;            
+    background-attachment: fixed; 
+    background-position: center; 
+    margin: 0;
+    font-family: Arial, sans-serif;          
+}
+.h2{
+    text-align: center;
+    font-size: 30px;
+    color: red; 
+    background-color: bisque;
+
+}
+nav{
+    text-align: center;
+    margin-top: 0;
+    line-height:5px ;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 8px;
+    transition: background 0.3s, color 0.3s;
+}
+
+nav a:hover {
+    background-color: blue;
+}
+.h3{
+    text-align: center;
+    font-size: 29px;
+    color: gold; 
+    line-height: normal;
+    
+
+}
+
+   .contact-section {
+            padding: 30px;
+            max-width: 600px;
+            margin: auto;
+            background: none;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-section h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .contact-section form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .contact-section input, .contact-section textarea, .contact-section button {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid whitesmoke;
+            border-radius: 5px;
+        }
+        .contact-section textarea {
+            resize: none;
+            height: 100px;
+        }
+        .contact-section button {
+            background-color: gray;
+            color: white;
+            cursor: pointer;
+        }
+.fg{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+    background-color: blanchedalmond;
+    padding: 2px;
+
+}
